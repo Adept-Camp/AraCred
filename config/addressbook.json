@@ -4,7 +4,7 @@
     "createdAt": 1585730646045,
     "address": "0xee611225d5066b79f3cc25fe6c901fc96cd03376"
   },
-    {
+  {
     "name": "dunks4111",
     "createdAt": 1585730646045,
     "address": "0x069e85D4F1010DD961897dC8C095FBB5FF297434"
@@ -153,5 +153,10 @@
     "name": "ben.oxmo",
     "createdAt": 1591266016725,
     "address": "0x4059457092Cc3812d56676DF6A75fD21204Fbe2F"
+  },
+  {
+    "name": "Windi",
+    "createdAt": 1609295930622,
+    "address": "0x4bd9dF7a920aF482194195BA1C93edf842582A1a"
   }
 ]
